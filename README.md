@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--->
 
 
 
-<p  align="center" ><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/63412382/126063427-00cb2639-cd03-447c-8d28-cec53c97fc89.gif"><img src="https://user-images.githubusercontent.com/63412382/126063427-00cb2639-cd03-447c-8d28-cec53c97fc89.gif" alt="Header" title="Header" style="max-width:150%;"></a></p>
+
+<p  align="center" ><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/63669371/135225307-fb5af627-45b9-499e-bf58-6817fc22f0b6.JPG"><img src="https://user-images.githubusercontent.com/63669371/135225307-fb5af627-45b9-499e-bf58-6817fc22f0b6.JPG" alt="Header" title="Header" style="width:50%;"></a></p>
 
 <p align="center"> 
   Visitor count<br>
@@ -32,13 +32,12 @@ Here are some ideas to get you started:
 </p>
 
 ### Languages
- * Arabic: Native.
  * Englsh: Fluent.
  
  </br>
 <h5 align="center">
   <code>
-    <a href="www.linkedin.com/in/m-aboushaaban/" title="LinkedIn Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/arif-cahya-prananda-298987164/" title="LinkedIn Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/linkedin.svg"> LinkedIn</a></code>
   <!-- <code><a href="https://leetcode.com/orashid303/" title="LeetCode Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/leetcode.svg"> LeetCode</a></code>
   <code><a href="https://twitter.com/OsamaRR_" title="Twitter Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/twitter.svg"> Twitter</a></code>
   <code><a href="https://www.hackerrank.com/orashid303?hr_r=1" title="Hacker Rank" target="blank"><img width="22" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png"> Hacker Rank</a></code> -->
@@ -86,10 +85,8 @@ Here are some ideas to get you started:
 ![Micro Service](https://img.shields.io/badge/-Microservices%20Architecture-000)
 
 
-![Anurag's github stats](https://activity-graph.herokuapp.com/graph?username=mohammed-abushaban&theme=highcontrast&bg_color=000&hide_border=true)
-
 <h4 align="center">
-  <a href="https://github.com/mohammed-abushaban" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/boscahya" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 ### 😜Here's a Joke for you:
