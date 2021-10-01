@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mohammed-abushaban/count.svg" />
+  <img src="https://profile-counter.glitch.me/boscahya/count.svg" />
 </p>  
 <h2> Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 </br>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </h5>
 </br>
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=mohammed-abushaban)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=boscahya)
 
 ### Programing Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -61,10 +61,10 @@ Here are some ideas to get you started:
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-abushaban&layout=compact&theme=highcontrast" alt="M7Mansour" />
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=boscahya&layout=compact&theme=highcontrast" alt="M7Mansour" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-abushaban&theme=highcontrast" />
+      <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=boscahya&theme=highcontrast" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -79,12 +79,13 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Apache NetBeans IDE](https://img.shields.io/badge/-apachenetbeanside-000?&logo=apachenetbeanside)
 
+<!--
 ### I’m currently learning:
 ![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Micro Service](https://img.shields.io/badge/-Microservices%20Architecture-000)
 
-
+-->
 <h4 align="center">
   <a href="https://github.com/boscahya" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
